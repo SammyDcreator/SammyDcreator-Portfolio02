@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "TweetChat App",
+        "description": "TweetChat Full Stack Website in NextJS, ExpressJS, MongoDB, Socket, NodeJS.",
+        "link": "https://github.com/DEBJYOTIRUMAN/TweetChat-FullStack-Project",
+        "image": "../images/TweetChat.png"
+    },
+    {
+        "id": 2,
+        "name": "XDrive App",
+        "description": "XDrive Web 3.0 Full Stack Website in NextJS, Ethers, Tailwind CSS, Solidity.",
+        "link": "https://github.com/DEBJYOTIRUMAN/XDrive-Blockchain-FullStack-DAPP",
+        "image": "../images/XDrive.png"
+    },
+    {
+        "id": 3,
+        "name": "DevAI App",
+        "description": "DevAI App in React, Tailwind CSS, React Native, ExpressJS and MongoDB.",
+        "link": "https://github.com/DEBJYOTIRUMAN/DevAI-MERN-FullStack",
+        "image": "../images/DevAI.png"
+    },
+    {
+        "id": 4,
+        "name": "Galaxtune App",
+        "description": "Galaxtune App in Flutter - Audio Player, GetX, Express JS and MongoDB.",
+        "link": "https://github.com/DEBJYOTIRUMAN/Galaxtune-Flutter-FullStack-Project",
+        "image": "../images/Galaxtune.png"
+    },
+    {
+        "id": 5,
+        "name": "Deviantika App",
+        "description": "Deviantika App in Flutter - Video Player, Audio Player, ExpressJS and MongoDB.",
+        "link": "https://github.com/DEBJYOTIRUMAN/Deviantika-Flutter-FullStack-Project",
+        "image": "../images/Deviantika.png"
+    },
+    {
+        "id": 6,
+        "name": "Darktube App",
+        "description": "Darktube Mobile App in React Native, Redux, ExpressJS and MongoDB.",
+        "link": "https://github.com/DEBJYOTIRUMAN/Darktube-MobileApp-FullStack-Project",
+        "image": "../images/Darktube.png"
+    },
+    {
+        "id": 7,
+        "name": "Darkvilla App",
+        "description": "Darkvilla Mobile App in React Native, Redux, ExpressJS and MongoDB.",
+        "link": "https://github.com/DEBJYOTIRUMAN/Darkvilla-MobileApp-FullStack-Project",
+        "image": "../images/Darkvilla.png"
+    },
+    {
+        "id": 8,
+        "name": "DevMarket App",
+        "description": "Dev Market Mobile App in React Native, Redux, ExpressJS and MongoDB.",
+        "link": "https://github.com/DEBJYOTIRUMAN/DevMarket-MobileApp-FullStack-Project",
+        "image": "../images/DevMarket.png"
+    },
+    {
+        "id": 9,
+        "name": "Dev Market Store",
+        "description": "Dev Market Store Ecommerce Website in HTML, CSS, JavaScript and Vite.",
+        "link": "https://github.com/DEBJYOTIRUMAN/DevMarketStore-Ecommerce-Website",
+        "image": "../images/Dev Market Store.png"
+    },
+    {
+        "id": 10,
+        "name": "Resumifye App",
+        "description": "Resumifye App in React, Electron, Tailwind CSS, ExpressJS and MongoDB.",
+        "link": "https://github.com/DEBJYOTIRUMAN/Resumifye-React-Electron-FullStack-Project",
+        "image": "../images/Resumifye.png"
+    },
+    {
+        "id": 11,
+        "name": "Tweetbag App",
+        "description": "Tweetbag Web 3.0 Full Stack Website in Next JS, Solidity, ExpressJS, MongoDB.",
+        "link": "https://github.com/DEBJYOTIRUMAN/Tweetbag-Blockchain-FullStack-Project",
+        "image": "../images/Tweetbag.png"
+    },
+    {
+        "id": 12,
+        "name": "Dev Market App",
+        "description": "Dev Market Website Full Stack in React JS, ExpressJS, MongoDB, Node JS.",
+        "link": "https://github.com/DEBJYOTIRUMAN/DevMarket-Website-FullStack-Project",
+        "image": "../images/Dev Market.png"
+    }
+]
