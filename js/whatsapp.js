@@ -16,7 +16,7 @@ function sendToWhatsApp(event) {
 
     const encodedMessage = encodeURIComponent(whatsappMessage);
 
-    const whatsappURL = `https://wa.me/+918250449610?text=${encodedMessage}`;
+    const whatsappURL = `https://wa.me/+2348155872239?text=${encodedMessage}`;
 
     window.open(whatsappURL, '_blank');
 }
