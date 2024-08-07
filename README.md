@@ -1,2 +1,2 @@
-# Devrx-Portfolio-Website
- Devrx Responsive Portfolio Website in HTML, CSS and JavaScript.
+# SammyDcreator-Portfolio-Website
+ Sammy Responsive Portfolio Website in HTML, CSS and JavaScript.
